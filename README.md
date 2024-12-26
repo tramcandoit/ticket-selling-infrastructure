@@ -1,1 +1,1 @@
-# ticket-selling-infrastructure
+# ticket-selling-terraform-infra
